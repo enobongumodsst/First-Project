@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: 'Lobster Two', cursive;
+}
+
+main {
+  background-color: white;
+}
+
+header {
+  height: 100px;
+  background-color: black;
+  color: red;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 25px;
+  margin: 0;
+  font-size: 2.5em;
+}
+
+li {
+  font-size: 1.2em;
+}
+
+footer {
+  height: 100px;
+  background-color: black;
+  color: red;
+  text-align: center;
+}
+
+footer p {
+  padding-top: 30px;
+}
+
+.wrapper {
+  width: 600px;
+  margin: auto;
+}
+
+.center {
+  text-align: center;
+}
